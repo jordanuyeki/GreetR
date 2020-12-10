@@ -1,0 +1,9 @@
+Package: GreetR
+Type: Package
+Title: Greeting Package
+Version: 0.1.0
+Author: Jordan Uyeki
+Maintainer: Jordan Uyeki <jsuyeki@dons.usfca.edu>
+Description: A simple greeting package for a coding demonstration.
+Encoding: UTF-8
+LazyData: true
